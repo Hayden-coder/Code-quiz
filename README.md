@@ -53,22 +53,6 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 
 ![](assets/images/high.PNG)
 
-### Psuedo code:  
-* Create a timer attached to a button with a starting value of 0
-* When timer is pressed start a reverse countdown
-* Create a 0 for countdown 
-* When countdown starts, start quiz
-* Start Quiz will be on appended page
-* Append the question: choices
-* When user selects the right answer, textcontent "Correct!"
-* When user selects the right answer, textcontent "Wrong!"
-* Final score will keep track of how many the user got right 
-* Left over time will be deducted from final score 
-* Final Score Appended page 
-* Captures local storage
-* Travels to another HTML
-* Retrieved highscores
-
 ### This project has script features of:
 * Questions contained in an array variable with objects
 * Variable declaration area 
@@ -79,15 +63,6 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * An appended page showing the final stats of the individual user with input area for initials, captures local storage
 * Highscores retreived local storage
 
-### This project has media Queries for:
-* max-width: 980px 
-    * Adjusts body and container width
-* max-width: 786px
-    * Adjusts body and container width
-    * Adjusts buttons
-* max-width: 640px
-    * Adjusts body and container width
-    * Adjusts buttons to be centered and stacked
 
 ### To Execute File:
 > Open in browser
